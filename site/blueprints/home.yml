@@ -1,0 +1,24 @@
+title: Home
+pages: false
+fields:
+  title:
+    label: Title
+    type:  text
+  text:
+    label: Text
+    type:  markdown
+  motto:
+    label: Motto
+    type:  text
+  keyword1:
+    label: Keyword1
+    type: text
+    width: 1/3
+  keyword2:
+    label: Keyword2
+    type: text
+    width: 1/3
+  keyword3:
+    label: Keyword3
+    type: text
+    width: 1/3

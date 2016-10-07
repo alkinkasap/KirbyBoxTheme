@@ -1,0 +1,23 @@
+title: Project
+pages: false
+files:
+  sortable: true
+fields:
+  title:
+    label: Title
+    type:  text
+  projectmotto:
+    label: Project Motto
+    type: text
+    width: 2/3
+  description:
+    label: Description
+    type: text
+    width: 1/3
+  text:
+    label: Text
+    type:  markdown
+  tags:
+    label: Tags
+    type:  tags
+    lower: true

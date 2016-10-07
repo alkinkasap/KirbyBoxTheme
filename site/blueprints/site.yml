@@ -1,0 +1,95 @@
+title: Site
+pages::
+  template:
+    - default
+    - contact
+fields:
+  title:
+    label: Title
+    type:  text
+  author:
+    label: Author
+    type:  text
+  keywords:
+    label: Keywords
+    type:  tags
+  favicon:
+    type: image
+    label: favicon
+  copyright:
+    label: Copyright
+    type:  markdown
+  tags:
+    label: Tags
+    type:  tags
+    lower: true
+
+  line:
+    type: line
+
+  facebook:
+    label: facebook
+    type: url
+    width: 1/4
+  twitter:
+    label: twitter
+    type: url
+    width: 1/4
+  instagram:
+    label: instagram
+    type: url
+    width: 1/4
+  tumblr:
+    label: tumblr
+    type: url
+    width: 1/4
+  fb:
+    type: checkbox
+    text: Check if you want to show
+    width: 1/4
+  tw:
+    type: checkbox
+    text: Check if you want to show
+    width: 1/4
+  ins:
+    type: checkbox
+    text: Check if you want to show
+    width: 1/4
+  tm:
+    type: checkbox
+    text: Check if you want to show
+    width: 1/4
+
+
+  pinterest:
+    label: pinterest
+    type: url
+    width: 1/4
+  dribbble:
+    label: dribbble
+    type: url
+    width: 1/4
+  github:
+    label: github
+    type: url
+    width: 1/4
+  codepen:
+    label: codepen
+    type: url
+    width: 1/4
+  pn:
+    type: checkbox
+    text: Check if you want to show
+    width: 1/4
+  drb:
+    type: checkbox
+    text: Check if you want to show
+    width: 1/4
+  git:
+    type: checkbox
+    text: Check if you want to show
+    width: 1/4
+  cdp:
+    type: checkbox
+    text: Check if you want to show
+    width: 1/4

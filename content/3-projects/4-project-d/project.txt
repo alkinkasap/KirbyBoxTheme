@@ -1,0 +1,17 @@
+Title: Project D
+
+----
+
+Text: Lorem ipsum is a text for nothing but comes from ages
+
+----
+
+Tags: logo,graphics
+
+----
+
+Projectmotto: No Motto YET!
+
+----
+
+Description: Charger Should Work Fine

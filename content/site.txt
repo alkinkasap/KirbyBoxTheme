@@ -1,0 +1,86 @@
+﻿Title: Kirby Box Theme
+
+----
+
+Author: Alkin Kasap
+
+----
+
+Description: This is a portfolio theme for Kirby CMS.
+
+
+----
+
+Copyright: © 2016 (link: https://alkinkasap.net text: alkinkasap)
+
+----
+
+Favicon: fav.png
+
+----
+
+Tags: logo,graphics,advertising,photography,fashion a
+
+----
+
+Facebook:
+
+----
+
+Twitter:
+
+----
+
+Instagram:
+
+----
+
+Tumblr:
+
+----
+
+Pinterest:
+
+----
+
+Dribbble:
+
+----
+
+Github:
+
+----
+
+Codepen:
+
+----
+
+Fb: 1
+
+----
+
+Tw: 1
+
+----
+
+Ins: 1
+
+----
+
+Tm: 1
+
+----
+
+Pn: 1
+
+----
+
+Drb: 1
+
+----
+
+Git: 1
+
+----
+
+Cdp: 1

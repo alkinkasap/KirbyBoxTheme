@@ -1,0 +1,15 @@
+title: Home
+pages: false
+fields:
+  title:
+    label: Title
+    type:  text
+  personalmotto:
+    label: Personal Motto
+    type: text
+  description:
+    label: Description
+    type: text
+  text:
+    label: Text
+    type:  markdown

@@ -1,0 +1,41 @@
+Title: Contact
+
+----
+
+Youremail: mail@placeholder.net
+
+----
+
+Thankyou: Thanks for getting in touch!
+
+----
+
+Text: Lorem ipsum dolor sit amet, **consectetur adipiscing elit**. Aliter enim nosmet ipsos nosse non possumus. Inscite autem medicinae et gubernationis ultimum cum ultimo sapientiae comparatur. *Tecum optime*, deinde etiam cum mediocri amico. Et nemo nimium beatus est; Ac ne plura complectar-sunt enim innumerabilia-, bene laudata virtus voluptatis aditus
+
+----
+
+Phone: +90 999 55 99 
+
+----
+
+Mail: 1
+
+----
+
+Tel: 1
+
+----
+
+City: Eskisehir
+
+----
+
+Map: 1
+
+----
+
+Contactmotto: Creative & Lorem ipsum dolor sit amet
+
+----
+
+Description: Contact Me
